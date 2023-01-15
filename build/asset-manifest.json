@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anvianvi-JSFE2022Q1/static/css/main.e18db8a8.css",
-    "main.js": "/anvianvi-JSFE2022Q1/static/js/main.abc88df4.js",
-    "static/js/787.a92fe09e.chunk.js": "/anvianvi-JSFE2022Q1/static/js/787.a92fe09e.chunk.js",
-    "index.html": "/anvianvi-JSFE2022Q1/index.html",
-    "main.e18db8a8.css.map": "/anvianvi-JSFE2022Q1/static/css/main.e18db8a8.css.map",
-    "main.abc88df4.js.map": "/anvianvi-JSFE2022Q1/static/js/main.abc88df4.js.map",
-    "787.a92fe09e.chunk.js.map": "/anvianvi-JSFE2022Q1/static/js/787.a92fe09e.chunk.js.map"
+    "main.css": "/Castom-shop-react/static/css/main.e18db8a8.css",
+    "main.js": "/Castom-shop-react/static/js/main.bcf6b320.js",
+    "static/js/787.a92fe09e.chunk.js": "/Castom-shop-react/static/js/787.a92fe09e.chunk.js",
+    "index.html": "/Castom-shop-react/index.html",
+    "main.e18db8a8.css.map": "/Castom-shop-react/static/css/main.e18db8a8.css.map",
+    "main.bcf6b320.js.map": "/Castom-shop-react/static/js/main.bcf6b320.js.map",
+    "787.a92fe09e.chunk.js.map": "/Castom-shop-react/static/js/787.a92fe09e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e18db8a8.css",
-    "static/js/main.abc88df4.js"
+    "static/js/main.bcf6b320.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "online-store",
   "version": "0.1.0",
-  "homepage": "https://rolling-scopes-school.github.io/anvianvi-JSFE2022Q1/",
+  "homepage": "https://anvianvi.github.io/custom-shop-react/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",

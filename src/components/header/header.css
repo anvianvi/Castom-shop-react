@@ -1,0 +1,29 @@
+.header {
+  min-height: 50px;
+  margin: 0 auto;
+  padding: 1vw 0 1vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  height: 5rem;
+}
+.logo-img {
+  max-height: 100%;
+}
+.header-navigation {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  list-style: none;
+}
+.header-container {
+  display: flex;
+  gap: 1rem;
+  text-align: center;
+}
+.cart-icon{
+  height: 1.5rem;
+}

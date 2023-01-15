@@ -1,0 +1,22 @@
+.img-preview {
+  height: 100px;
+}
+.table {
+  margin: 0 auto;
+}
+.cart-wrapper{
+  max-width: 85vw;
+  min-height: 75vh;
+  margin: 0 auto 2vw auto;
+}
+.total-cost{
+  max-width: 80vw;
+  margin: 0 auto;
+  padding: 1rem;
+  display: flex;
+  justify-content: flex-end;
+  gap: 2vw;
+}
+.total-cost-button{
+  display: block;
+}

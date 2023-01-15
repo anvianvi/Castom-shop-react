@@ -1,0 +1,14 @@
+.modal-body{
+  display: flex;
+  gap: 5vw;
+}
+.buttons-group{
+  display: flex;
+  gap: 0;
+}
+.popup-img{
+  height: 22vw;
+}
+.popup-wrapper{
+  padding: 2vw;
+}

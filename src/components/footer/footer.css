@@ -1,0 +1,17 @@
+.footer {
+  min-height: 50px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.1rem 5rem;
+  align-items: center;
+}
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 140px;
+}
+
+.rs-logo {
+  display: block;
+  width: 80px;
+}

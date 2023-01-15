@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Castom-shop-react/static/css/main.e18db8a8.css",
-    "main.js": "/Castom-shop-react/static/js/main.bcf6b320.js",
-    "static/js/787.a92fe09e.chunk.js": "/Castom-shop-react/static/js/787.a92fe09e.chunk.js",
-    "index.html": "/Castom-shop-react/index.html",
-    "main.e18db8a8.css.map": "/Castom-shop-react/static/css/main.e18db8a8.css.map",
-    "main.bcf6b320.js.map": "/Castom-shop-react/static/js/main.bcf6b320.js.map",
-    "787.a92fe09e.chunk.js.map": "/Castom-shop-react/static/js/787.a92fe09e.chunk.js.map"
+    "main.css": "/custom-shop-react/static/css/main.e18db8a8.css",
+    "main.js": "/custom-shop-react/static/js/main.ec9e733a.js",
+    "static/js/787.a92fe09e.chunk.js": "/custom-shop-react/static/js/787.a92fe09e.chunk.js",
+    "index.html": "/custom-shop-react/index.html",
+    "main.e18db8a8.css.map": "/custom-shop-react/static/css/main.e18db8a8.css.map",
+    "main.ec9e733a.js.map": "/custom-shop-react/static/js/main.ec9e733a.js.map",
+    "787.a92fe09e.chunk.js.map": "/custom-shop-react/static/js/787.a92fe09e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e18db8a8.css",
-    "static/js/main.bcf6b320.js"
+    "static/js/main.ec9e733a.js"
   ]
 }
